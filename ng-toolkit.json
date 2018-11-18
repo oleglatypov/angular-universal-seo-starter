@@ -1,0 +1,7 @@
+{
+  "universal": {
+    "project": "seo-optimizer",
+    "skipInstall": false,
+    "directory": "."
+  }
+}
